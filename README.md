@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I'm working on not getting expelled from ITMO
+- 🌱 I’m currently learning JAVA, Kumir
+
 <!--
 **sircuspelle/sircuspelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
